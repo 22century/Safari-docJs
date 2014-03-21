@@ -14,3 +14,7 @@ Class Reference には Constants の型が書いてないが、実際は数値�
 2. Libraries (Global Libraries) -> [+] -> JavaScript 
 3. .../Safari-docJs/build/safari.js -> OK 
 4. Check -> OK 
+
+### eclipse
+
+しらない。

@@ -1,0 +1,9 @@
+{
+  "name"  : "Safari-docJs",
+  "readme": "README.md",
+  "version": "0.5",
+  "devDependencies": {
+    "cheerio": "^0.13.1",
+    "xmlhttprequest": "^1.6.0"
+  }
+}

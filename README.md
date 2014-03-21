@@ -10,7 +10,7 @@ Class Reference には Constants の型が書いてないが、実際は数値�
 
 ###IntelliJ IDEA
 
-1. Prefereces -> JavaScript -> Libraries -> Configure 
+1. Preferences -> JavaScript -> Libraries -> Configure
 2. Libraries (Global Libraries) -> [+] -> JavaScript 
 3. .../Safari-docJs/build/safari.js -> OK 
 4. Check -> OK 
